@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppInstructur</string>
+    <string name="Instrukcii">ИНСТРУКЦИИ</string>
+    <string name="start">НАЧАТЬ</string>
+    <string name="OperatorDNG">ОПЕРАТОР ПО ДНГ</string>
+    <string name="OperatorT">ОПЕРАТОР ТУ</string>
+    <string name="u_string_operator_tu">U@string/OperatorT</string>
+    <string name="master_dng">МАСТЕР ДНГ</string>
+    <string name="operator_tu">ОПЕРАТОР ТУ</string>
+</resources>
